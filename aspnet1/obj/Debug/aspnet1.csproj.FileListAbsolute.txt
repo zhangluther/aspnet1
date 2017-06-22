@@ -1,0 +1,5 @@
+/Users/zhangwei/ZW/aspnet/aspnet1/aspnet1/bin/aspnet1.dll
+/Users/zhangwei/ZW/aspnet/aspnet1/aspnet1/bin/aspnet1.pdb
+/Users/zhangwei/ZW/aspnet/aspnet1/aspnet1/obj/Debug/aspnet1.csproj.CoreCompileInputs.cache
+/Users/zhangwei/ZW/aspnet/aspnet1/aspnet1/obj/Debug/aspnet1.dll
+/Users/zhangwei/ZW/aspnet/aspnet1/aspnet1/obj/Debug/aspnet1.pdb
